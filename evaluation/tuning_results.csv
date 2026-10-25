@@ -1,0 +1,5 @@
+Model,CV_F1,Test_Accuracy,Test_Precision,Test_Recall,Test_F1,Best_Parameters
+Logistic Regression,0.3819304749060262,0.6349856616140925,0.2645698427382054,0.7486910994764397,0.39097744360902253,"{'model__C': 0.1, 'model__class_weight': None}"
+Decision Tree,0.366257767109574,0.6968455551003687,0.27168367346938777,0.5575916230366492,0.3653516295025729,"{'model__class_weight': None, 'model__max_depth': 10, 'model__min_samples_leaf': 5}"
+Random Forest,0.3914257099449699,0.7443670626792298,0.3126934984520124,0.5287958115183246,0.39299610894941633,"{'model__max_depth': 10, 'model__min_samples_leaf': 5, 'model__n_estimators': 200}"
+KNN,0.3448572932132515,0.6292503072511266,0.25260170293282874,0.6989528795811518,0.37109103544127864,"{'model__n_neighbors': 11, 'model__weights': 'uniform'}"
