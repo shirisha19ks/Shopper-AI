@@ -293,3 +293,13 @@ The project brings together machine learning, dataset analytics, retrieval-augme
 **Project:** Autonomous Enterprise Intelligence Platform  
 **Dataset:** Online Shoppers Purchasing Intention  
 **Interface:** Streamlit
+## Project Links
+
+- **GitHub Repository:** https://github.com/shirisha19ks/Shopper-AI
+- **Live Application:** https://shopper-ai-yodt3zqrjue8zsjjikk8b3.streamlit.app/
+
+## Project Documentation
+
+- Professional Project Report: `Shopper_AI_Professional_Project_Report.pdf`
+- Screenshot Report: `Shopper_AI_Final_Screenshot_Report.pdf`
+- Demonstration Script: `Shopper_AI_Project_Demonstration_Script.docx`
